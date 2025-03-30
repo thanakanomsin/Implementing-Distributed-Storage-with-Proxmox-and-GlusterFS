@@ -425,7 +425,7 @@ sudo mount -t glusterfs node1:/dispersed_vol /mnt/gluster-dispersed
 df -h | grep gluster
 ```
 
-**4. Set Up Automount (Optional)**  
+**4. Set Up Automount**  
 To automatically mount the volume upon boot, add the following line to `/etc/fstab`:
 
 ```bash

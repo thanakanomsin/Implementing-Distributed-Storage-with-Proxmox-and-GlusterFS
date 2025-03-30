@@ -231,8 +231,8 @@ sudo systemctl status glusterd
 On **each VM**, add the hostnames to `/etc/hosts`:
 ```bash
 echo "ip1 node1" | sudo tee -a /etc/hosts
-echo "ip1 node2" | sudo tee -a /etc/hosts
-echo "ip1 node3" | sudo tee -a /etc/hosts
+echo "ip2 node2" | sudo tee -a /etc/hosts
+echo "ip3 node3" | sudo tee -a /etc/hosts
 ```
 
 **2. Connect the Cluster**

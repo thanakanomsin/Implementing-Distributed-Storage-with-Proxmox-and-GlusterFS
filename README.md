@@ -286,6 +286,7 @@ sudo apt install -y glusterfs-client
 ```
 
 **2. Mount the Volume**
+
 Create a directory to mount:
 ```bash
 sudo mkdir -p /mnt/gluster-dispersed

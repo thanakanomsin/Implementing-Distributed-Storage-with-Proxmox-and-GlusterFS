@@ -1,5 +1,5 @@
 
-# Network Programing Project
+# Implementing Distributed Storage with Proxmox and GlusterFS
 This project is about designing a VM and storage using Proxmox and GlusterFS, with the condition of using a total of 3 VMs to create server and client machines for storage. We will create a dispersed volume with 3 bricks.
 
 

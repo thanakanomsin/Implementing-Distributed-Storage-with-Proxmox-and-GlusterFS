@@ -202,7 +202,6 @@ To fix a static IP on Ubuntu using the terminal, follow these steps:
 
    This should display your network interface with the new static IP address.
 
-Let me know if you need more help with this!
 ## Steps to Install GlusterFS and Create a Dispersed Volume
 
 Creating a Dispersed Volume on 3 Virtual Machines (VMs) using GlusterFS with Erasure Coding (EC) to distribute data and improve fault tolerance against disk or node failures
